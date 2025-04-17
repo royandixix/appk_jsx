@@ -1,0 +1,32 @@
+*{
+    text-align: left;
+}
+
+.box-stock {
+    width: 300px;
+    display: inline-block;
+    height: auto;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box-stock img{
+    width: 300px;
+    height: 200px;
+}
+
+.btn-clik {
+    text-align: center;
+    background-color: black;
+    color: #efefef; 
+    width: 100px;
+    border: none;
+    padding: 11px;
+    max-inline-size: none;
+
+    border-radius: 5px;
+    
+    
+    
+}
